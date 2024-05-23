@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 >This page is still under construction so not everything is ready
-### Web
+## Web
 _____
 #### Browsers
 * [Floorp](https://floorp.app/en/) is a privacy-focused web browser built on the Firefox platform, offering enhanced security and customization features for a fast and private browsing experience. It also allows for vertial tabs.
@@ -16,7 +16,7 @@ _____
 #### Email
 * [Mailspring](https://github.com/Foundry376/Mailspring) is a fast and feature-rich email client with customizable themes and powerful search capabilities, suitable for both personal and professional use.
 
-### Utils
+## Utils
 _________
 #### Windows Shell
 * [Nilesoft Shell](https://nilesoft.org/download)is a context menu extender for Windows File Explorer. It allows you to select items integrated into the context menu, create custom commands for web pages, files, and folders, and directly launch applications. Whether you want to modify or remove existing context menu items, Shell provides a lightweight, and customizable solution.
@@ -56,7 +56,7 @@ _________
 
 * [Putty](https://putty.org/) is a free and open-source terminal emulator, serial console, and network file transfer application. It supports various network protocols, including SSH, Telnet, and SCP, making it essential for network administrators and developers for secure remote access and file transfers.
 
-### Creative Apps
+## Creative Apps
 ___
 * [Davinci Resolve ($)](https://www.blackmagicdesign.com/products/davinciresolve) is a professional video editing software that combines editing, color correction, visual effects, and audio post-production. It offers a complete suite of high-end tools for filmmakers and content creators, making it an industry-standard choice for video editing and color grading​
 
