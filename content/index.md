@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Hätte, hätte, Fahrradkette
+draft: false
+tags:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Just a site that contains things that I want to share
+You can look at things like [[Apps That I Use]]
