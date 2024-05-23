@@ -3,11 +3,10 @@ title: Apps That I Use
 draft: false
 tags:
 ---
->This page is still under construction so not everything is ready
 ## Web
 _____
 #### Browsers
-* [Floorp](https://floorp.app/en/) is a privacy-focused web browser built on the Firefox platform, offering enhanced security and customization features for a fast and private browsing experience. It also allows for vertial tabs.
+* [Floorp](https://floorp.app/en/) is a privacy-focused web browser built on the Firefox platform, offering enhanced security and customization features for a fast and private browsing experience. It also allows for vertical tabs.
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) is a highly customizable web browser known for its speed, security, and user-friendly features, perfect for personalized browsing experiences.
 
@@ -16,12 +15,12 @@ _____
 #### Email
 * [Mailspring](https://github.com/Foundry376/Mailspring) is a fast and feature-rich email client with customizable themes and powerful search capabilities, suitable for both personal and professional use.
 
-## Utils
+## Utilities
 _________
 #### Windows Shell
 * [Nilesoft Shell](https://nilesoft.org/download)is a context menu extender for Windows File Explorer. It allows you to select items integrated into the context menu, create custom commands for web pages, files, and folders, and directly launch applications. Whether you want to modify or remove existing context menu items, Shell provides a lightweight, and customizable solution.
 
-*  [File Converter](https://file-converter.io/download.html) is a straightforward tool that allows you to convert and compress files using the context menu in Windows Explorer. It supports conversion between almost every file format, including audio, e-books, videos, 3D models, documents, images, fonts, spreadsheets, and even metadata from over 2000 source formats. Whether you need to convert an e-book, video, or CAD drawing, File Converter saves you time and battery by performing conversions in the cloud. You can download it from here.
+* [File Converter](https://file-converter.io/download.html) is a straightforward tool that allows you to convert and compress files using the context menu in Windows Explorer. It supports conversion between almost every file format, including audio, e-books, videos, 3D models, documents, images, fonts, spreadsheets, and even metadata from over 2000 source formats. Whether you need to convert an e-book, video, or CAD drawing, File Converter saves you time and battery by performing conversions in the cloud. You can download it from here.
 
 * [PowerToys](https://github.com/microsoft/PowerToys)is a collection of utilities that enhance Windows functionality. It includes tools like FancyZones for window management, PowerRename for bulk file renaming, and Keyboard Manager for remapping keys. PowerToys is ideal for power users looking to customize and streamline their Windows experience.
 
