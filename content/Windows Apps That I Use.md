@@ -6,11 +6,11 @@ tags: []
 ## Web
 _____
 #### Browsers
+* [Arc](https://arc.net/download) is a sleek, feature-rich web browser that enhances your browsing with unique tools for organizing tabs and customizing your workspace.
+
 * [Floorp](https://floorp.app/en/) is a privacy-focused web browser built on the Firefox platform, offering enhanced security and customization features for a fast and private browsing experience. It also allows for vertical tabs.
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) is a highly customizable web browser known for its speed, security, and user-friendly features, perfect for personalized browsing experiences.
-
-* [Chrome](https://www.google.com/chrome/) is a widely-used web browser known for its speed, simplicity, and seamless integration with Google services, offering a powerful and reliable browsing experience.
 
 #### Email
 * [Mailspring](https://github.com/Foundry376/Mailspring) is a fast and feature-rich email client with customizable themes and powerful search capabilities, suitable for both personal and professional use.
