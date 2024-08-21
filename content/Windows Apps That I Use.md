@@ -1,7 +1,7 @@
 ---
-title: Apps That I Use
+title: Windows Apps That I Use
 draft: false
-tags:
+tags: []
 ---
 ## Web
 _____
@@ -36,7 +36,7 @@ _________
 #### Useful to have but don't need every day
 * [Twinkle Tray](https://twinkletray.com/) is a handy utility that allows you to easily manage the brightness levels of multiple monitors. It provides a convenient system tray interface where you can quickly adjust the brightness of all connected displays individually or simultaneously. This tool is especially useful for multi-monitor setups, ensuring consistent brightness across different screens.
 
-* [WingetUI (Soon UniGetUI)](https://github.com/marticliment/WingetUI) is a graphical user interface for managing Windows software packages using the Windows Package Manager (winget), Chocolaty, and Scoop. It simplifies the process of searching, installing, updating, and uninstalling applications by providing an intuitive and user-friendly interface. WingetUI makes it easier for users to access and manage a wide range of software packages without needing to use the command line. This tool is particularly useful for those looking to streamline their software management on Windows.
+* [UniGetUI (formerly WingetUI)](https://github.com/marticliment/WingetUI) is a graphical user interface for managing Windows software packages using the Windows Package Manager (winget), Chocolaty, and Scoop. It simplifies the process of searching, installing, updating, and uninstalling applications by providing an intuitive and user-friendly interface. WingetUI makes it easier for users to access and manage a wide range of software packages without needing to use the command line. This tool is particularly useful for those looking to streamline their software management on Windows.
 
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) is a versatile tool designed to convert audio files into a format suitable for audiobooks. It supports a variety of audio formats and allows you to easily organize and convert your audio files into a monolithic m4b file with embedded chapters, making them perfect for audiobook playback.
 
