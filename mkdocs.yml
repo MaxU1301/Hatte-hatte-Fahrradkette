@@ -47,6 +47,7 @@ theme:
 
 nav:
   - 🏠 Home: index.md
+  - 💼 Portfolio: portfolio/index.md
   - 📃 Documentation:
       - documentation/index.md
       - Proxmox:

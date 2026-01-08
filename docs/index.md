@@ -9,14 +9,14 @@ hero:
   image: /assets/cover.jpg
 intro:
   title: Hätte, hätte, fahrradkette
-  subtitle: My personal wiki, knowledge base, and maybe a blog
+  subtitle: My portfolio, personal wiki, knowledge base, and maybe a blog
 ---
 
 <div class="content-section welcome-section">
 <div class="content-section__inner">
 
 <h1>Welcome</h1>
-<p>Just a site that contains things that I want to share. You can look at things like the <a href="/apps/">Apps That I Use</a> or my <a href="/documentation/">Documentation</a>.</p>
+<p>Just a site that contains things that I want to share. You can look at my <a href="/portfolio/">Portfolio</a>, the <a href="/apps/">Apps That I Use</a>, or my <a href="/documentation/">Documentation</a>.</p>
 
 </div>
 </div>
